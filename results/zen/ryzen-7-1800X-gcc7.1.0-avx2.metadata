@@ -1,0 +1,4 @@
+cpu=Ryzen 7 1800X
+architecture=AVX2
+compiler=GCC 7.1.0
+runs=5

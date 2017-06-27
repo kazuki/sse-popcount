@@ -1,0 +1,4 @@
+cpu=Ryzen 7 1800X
+architecture=AVX2
+compiler=clang 4.0.0
+runs=5
